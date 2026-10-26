@@ -30,3 +30,5 @@ module.exports = {
     multiply,
     divide
 };
+
+console.log("CI/CD pipeline test: New commit detected");
